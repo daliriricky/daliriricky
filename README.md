@@ -9,8 +9,17 @@
 - Tools: Git, GitHub
 
 ## 🛠 Projects
-- **Medicine Compliance App** – Reminder app for psychiatric hospital patients
-- **Big Data Analytics Research** – Explored opportunities and challenges in big data
+Repository name: medicine-compliance-app
+💊 A mobile-friendly reminder app to help psychiatric patients stay consistent with their medication schedules.
+
+## 🚧 Project in Progress
+This project is currently under development as part of a collaboration with the Bolga Presbyterian Psychiatric Hospital.
+
+## 📌 Goals
+- [x] Requirements gathering
+- [ ] UI design
+- [ ] Laravel backend
+- [ ] Notification system
 
 ## 📫 Let's Connect
 - Email: daliriricky@gmail.com
